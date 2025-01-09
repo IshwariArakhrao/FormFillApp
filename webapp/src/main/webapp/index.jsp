@@ -4,6 +4,9 @@ i  <div class="container">
     <p>Please fill in this form!</p>
     <hr>
     <br>
+    <label for="name"><b>Email</b></label>
+    <input type="text" placeholder="Enter name" name="name" id="name" required>
+    <br>
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
