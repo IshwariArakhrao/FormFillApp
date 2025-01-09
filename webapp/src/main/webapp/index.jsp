@@ -4,8 +4,12 @@ i  <div class="container">
     <p>Please fill in this form!</p>
     <hr>
     <br>
-    <label for="name"><b>Email</b></label>
+    <label for="name"><b>name</b></label>
     <input type="text" placeholder="Enter name" name="name" id="name" required>
+    <br> 
+
+    <label for="adhar"><b>adhar</b></label>
+    <input type="text" placeholder="Enter adhar" name="adhar" id="adhar" required>
     <br>
 
     <label for="email"><b>Email</b></label>
